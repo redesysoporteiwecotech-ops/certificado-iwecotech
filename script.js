@@ -5,7 +5,7 @@ const LOADING=document.getElementById("loading");
 const RESULTADO=document.getElementById("resultado");
 const BOTONES=document.getElementById("botones");
 
-const SCRIPT_URL="https://script.google.com/macros/s/AKfycbzdMiggpard62hXWHBj4zd_Jothr4sSIc41BO_6i4H6P3yCWzd5EL4NRujGtKCHQmgs/exec";
+const SCRIPT_URL="https://script.google.com/macros/s/AKfycbz0d6T1V0YuwqFrhDM5gbd9e-LBVtX2zyxFacgG4x9-RVFsb-EoXtWpxgWtwRQJ2w54/exec";
 
 FORM.addEventListener("submit",async(e)=>{
   e.preventDefault();
